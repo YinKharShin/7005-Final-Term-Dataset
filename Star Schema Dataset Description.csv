@@ -25,7 +25,7 @@ ARPU_BEFORE,ARPU before campaign launched.
 CPA_RVN_BEFORE,Total added value service before campaign launched.
 CPA_RVN_AFTER,Total added value service after campaign ended.
 ARPU_AFTER,ARPU after campaign ended.
-ACTIVITY_DAYS_AFTERÊ,Silent days after campaign ended.
+ACTIVITY_DAYS_AFTER,Silent days after campaign ended.
 ACTIVITY_STATUS_AFTER,Customer activity status after campaign ended.
 New added variables:,
 AREA_CD,Customer area code.
